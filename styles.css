@@ -1,24 +1,26 @@
 body{
-    background-color:white;
-    color: light-gray;
+    background-color:#5b5b5ba3;
+    color: #383838;
     font-family: Georgia;
     font-weight: lighter;
-    font-size: 1.5em;
+    font-size: 1em;
     padding: 0;
     margin: 0;
 }
-h1{
+h1, h2{
     font-family: 'Franklin Gothic Medium';
     font-weight: bold;
    
 }
 ol li a{
-    list-style-type: none;
-    background-color: #97038b;
+    background-color: #464646;
     color: #ffffff;
     border-radius: 20px;
     cursor: pointer;
-
+    padding: 10px 10px 10px 10px;
+    font-family: Arial;
+    text-decoration: none;
+    list-style-type: none;
 }
 ol{
     list-style-type: none;
