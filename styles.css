@@ -1,6 +1,6 @@
 body{
-    background-color:#5b5b5ba3;
-    color: #383838;
+    background-color:#000000;
+    color: #ffffff;
     font-family: Georgia;
     font-weight: lighter;
     font-size: 1em;
@@ -10,10 +10,11 @@ body{
 h1, h2{
     font-family: 'Franklin Gothic Medium';
     font-weight: bold;
+    color: rgb(0, 222, 247);
    
 }
 ol li a{
-    background-color: #464646;
+    background-color: #006590;
     color: #ffffff;
     border-radius: 20px;
     cursor: pointer;
